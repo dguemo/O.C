@@ -1,0 +1,2 @@
+# O.C
+Ejercicios NAND2TERIS Y LOGISIM
