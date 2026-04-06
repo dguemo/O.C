@@ -1,2 +1,3 @@
 # O.C
-Ejercicios NAND2TERIS Y LOGISIM
+
+Desarrollo de proyectos para la materia organizacion de computadores
