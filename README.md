@@ -1,3 +1,3 @@
-# O.C
+# PROYECTO 1
 
-Desarrollo de proyectos para la materia organizacion de computadores
+Desarrollo proyecto 1
